@@ -1,0 +1,31 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Developer: AI Fullstack Engineer
+    Contact: [Your Contact Information]
+    From: [Your Location]
+
+# THANKS
+
+    Hugo Static Site Generator
+    Tailwind CSS
+    Lunr.js Search
+    Cloudflare Pages
+
+# TECHNOLOGY COLOPHON
+
+    Backend: Hugo Static Site Generator
+    Frontend: HTML5, Tailwind CSS, JavaScript
+    Search: Lunr.js
+    Hosting: Cloudflare Pages
+    Version Control: Git, GitHub
+    Deployment: GitHub Actions, Cloudflare Pages
+
+# SITE
+
+    Last update: 2024/12/19
+    Language: English
+    Doctype: HTML5
+    IDE: Cursor AI

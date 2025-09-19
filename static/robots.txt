@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemap
-Sitemap: {{ .Site.BaseURL }}/sitemap.xml
+Sitemap: https://dyinglightthebeast.online/sitemap.xml
 
 # Crawl-delay
 Crawl-delay: 1
@@ -11,9 +11,20 @@ Crawl-delay: 1
 Disallow: /admin/
 Disallow: /private/
 
-# Allow all content
+# Allow all content sections
 Allow: /quests/
 Allow: /items/
 Allow: /characters/
 Allow: /skills/
 Allow: /map/
+
+# Allow static resources
+Allow: /css/
+Allow: /js/
+Allow: /images/
+Allow: /fonts/
+
+# Block unnecessary files
+Disallow: /*.json$
+Disallow: /*.xml$
+Disallow: /hugo_stats.json
