@@ -1,0 +1,37 @@
+{
+  "name": "dyinglightthebeast-wiki",
+  "version": "1.0.0",
+  "description": "A comprehensive Hugo-based wiki website for Dying Light: The Beast game",
+  "main": "index.js",
+  "scripts": {
+    "dev": "hugo server -D",
+    "build": "hugo --minify",
+    "build:production": "hugo --minify --baseURL https://dyinglightthebeast.online",
+    "clean": "rm -rf public/ resources/ .hugo_build.lock",
+    "lint": "markdownlint content/",
+    "lint:fix": "markdownlint content/ --fix",
+    "test": "hugo --quiet --buildDrafts --buildFuture",
+    "deploy": "hugo --minify && git add . && git commit -m 'Deploy' && git push"
+  },
+  "keywords": [
+    "hugo",
+    "wiki",
+    "dying-light",
+    "gaming",
+    "static-site",
+    "tailwindcss"
+  ],
+  "author": "Dying Light Wiki Team",
+  "license": "MIT",
+  "devDependencies": {
+    "markdownlint-cli": "^0.35.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/dyinglightthebeast-wiki.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/dyinglightthebeast-wiki/issues"
+  },
+  "homepage": "https://dyinglightthebeast.online"
+}

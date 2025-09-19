@@ -1,0 +1,35 @@
+{{ $pages := where .Site.Pages "Type" "in" (slice "quest" "item" "character" "skill" "location") }}
+{{ $searchData := slice }}
+{{ range $pages }}
+  {{ if ne .Type "section" }}
+    {{ $searchData = $searchData | append (dict
+      "id" .RelPermalink
+      "title" .Title
+      "content" (.Content | plainify)
+      "url" .RelPermalink
+      "type" .Type
+      "description" .Description
+      "categories" .Params.categories
+      "tags" .Params.tags
+      "date" .Date
+    ) }}
+  {{ end }}
+{{ end }}
+
+<script>
+// Search data
+window.searchData = {{ $searchData | jsonify }};
+
+// Simple search index (fallback)
+window.searchIndex = {
+  search: function(query) {
+    if (!query || !window.searchData) return [];
+    const queryLower = query.toLowerCase();
+    return window.searchData.filter(doc => 
+      doc.title.toLowerCase().includes(queryLower) ||
+      doc.content.toLowerCase().includes(queryLower) ||
+      (doc.description && doc.description.toLowerCase().includes(queryLower))
+    ).map((doc, index) => ({ ref: index, score: 1 }));
+  }
+};
+</script>

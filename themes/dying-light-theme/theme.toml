@@ -1,0 +1,11 @@
+name = "Dying Light Theme"
+license = "MIT"
+licenselink = "https://github.com/dyinglightthebeast/wiki/blob/main/LICENSE"
+description = "A dark-themed Hugo theme for Dying Light: The Beast wiki"
+homepage = "https://dyinglightthebeast.online"
+tags = ["wiki", "gaming", "dark-theme"]
+features = ["search", "responsive", "seo"]
+min_version = "0.100.0"
+
+[author]
+  name = "Dying Light Wiki Team"

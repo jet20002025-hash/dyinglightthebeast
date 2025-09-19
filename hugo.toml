@@ -1,0 +1,75 @@
+baseURL = 'https://dyinglightthebeast.online'
+languageCode = 'en-us'
+title = 'Dying Light: The Beast Wiki'
+theme = 'dying-light-theme'
+
+# SEO Configuration
+[params]
+  description = "Complete wiki and guide for Dying Light: The Beast - quests, items, characters, skills, and maps"
+  author = "Dying Light The Beast Wiki"
+  keywords = ["dying light", "the beast", "wiki", "guide", "walkthrough", "quests", "items", "characters"]
+  
+  # Social Media
+  twitter = "@DyingLightWiki"
+  facebook = "DyingLightTheBeastWiki"
+  
+  # Analytics (replace with your actual tracking ID)
+  googleAnalytics = "GA_TRACKING_ID"
+  
+  # Search Configuration
+  enableSearch = true
+  searchPlaceholder = "Search wiki..."
+
+# Menu Configuration
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  name = "Quests"
+  url = "/quests/"
+  weight = 2
+
+[[menu.main]]
+  name = "Items"
+  url = "/items/"
+  weight = 3
+
+[[menu.main]]
+  name = "Characters"
+  url = "/characters/"
+  weight = 4
+
+[[menu.main]]
+  name = "Skill Tree"
+  url = "/skills/"
+  weight = 5
+
+[[menu.main]]
+  name = "Map"
+  url = "/map/"
+  weight = 6
+
+# Content Configuration
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+# Build Configuration
+[build]
+  writeStats = true
+
+# Output Configuration
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+  page = ["HTML"]
+  section = ["HTML", "RSS"]
+  taxonomy = ["HTML", "RSS"]
+
+# Taxonomies
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  difficulty = "difficulties"

@@ -1,0 +1,42 @@
+{{ define "main" }}
+<div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+    <!-- Page Header -->
+    <div class="mb-8">
+        <h1 class="text-4xl font-game font-bold text-dying-orange mb-4">{{ .Title }}</h1>
+        {{ if .Description }}
+        <p class="text-xl text-gray-300">{{ .Description }}</p>
+        {{ end }}
+    </div>
+    
+    <!-- Content -->
+    <div class="prose prose-invert max-w-none">
+        {{ .Content }}
+    </div>
+    
+    <!-- Page Navigation -->
+    {{ if .Pages }}
+    <div class="mt-12">
+        <h2 class="text-2xl font-semibold text-white mb-6">Related Pages</h2>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+            {{ range .Pages }}
+            <div class="bg-dying-gray rounded-lg p-6 hover:bg-dying-light-gray transition-colors duration-200">
+                <h3 class="text-lg font-semibold text-white mb-2">
+                    <a href="{{ .Permalink }}" class="hover:text-dying-orange">{{ .Title }}</a>
+                </h3>
+                {{ if .Description }}
+                <p class="text-gray-400 text-sm mb-3">{{ .Description }}</p>
+                {{ end }}
+                {{ if .Params.featured_image }}
+                <img src="{{ .Params.featured_image | absURL }}" alt="{{ .Title }}" class="w-full h-32 object-cover rounded mb-3">
+                {{ end }}
+                <div class="flex items-center justify-between">
+                    <span class="text-xs text-gray-500">{{ .Date.Format "Jan 2, 2006" }}</span>
+                    <a href="{{ .Permalink }}" class="text-dying-orange hover:text-orange-400 text-sm font-semibold">Read More →</a>
+                </div>
+            </div>
+            {{ end }}
+        </div>
+    </div>
+    {{ end }}
+</div>
+{{ end }}

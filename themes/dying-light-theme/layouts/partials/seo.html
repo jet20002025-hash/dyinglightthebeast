@@ -1,0 +1,113 @@
+<!-- SEO and Meta Tags Partial -->
+{{ $title := .Title | default .Site.Title }}
+{{ $description := .Description | default .Site.Params.description }}
+{{ $keywords := .Params.keywords | default .Site.Params.keywords }}
+{{ $author := .Site.Params.author }}
+{{ $canonical := .Permalink | absURL }}
+
+<!-- Basic Meta Tags -->
+<title>{{ if .IsHome }}{{ $title }}{{ else }}{{ $title }} | {{ .Site.Title }}{{ end }}</title>
+<meta name="description" content="{{ $description }}">
+<meta name="keywords" content="{{ delimit $keywords ", " }}">
+<meta name="author" content="{{ $author }}">
+<meta name="robots" content="index, follow">
+
+<!-- Canonical URL -->
+<link rel="canonical" href="{{ $canonical }}">
+
+<!-- Open Graph Meta Tags -->
+<meta property="og:title" content="{{ $title }}">
+<meta property="og:description" content="{{ $description }}">
+<meta property="og:type" content="{{ if .IsHome }}website{{ else }}article{{ end }}">
+<meta property="og:url" content="{{ $canonical }}">
+<meta property="og:site_name" content="{{ .Site.Title }}">
+<meta property="og:locale" content="{{ .Site.LanguageCode }}">
+{{ if .Params.featured_image }}
+<meta property="og:image" content="{{ .Params.featured_image | absURL }}">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+{{ else }}
+<meta property="og:image" content="{{ "images/og-default.jpg" | absURL }}">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+{{ end }}
+
+<!-- Twitter Card Meta Tags -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ $title }}">
+<meta name="twitter:description" content="{{ $description }}">
+{{ if .Params.featured_image }}
+<meta name="twitter:image" content="{{ .Params.featured_image | absURL }}">
+{{ else }}
+<meta name="twitter:image" content="{{ "images/twitter-default.jpg" | absURL }}">
+{{ end }}
+{{ if .Site.Params.twitter }}
+<meta name="twitter:site" content="@{{ .Site.Params.twitter }}">
+<meta name="twitter:creator" content="@{{ .Site.Params.twitter }}">
+{{ end }}
+
+<!-- Additional Meta Tags -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="theme-color" content="#ff6b35">
+<meta name="msapplication-TileColor" content="#ff6b35">
+
+<!-- Favicon -->
+<link rel="icon" type="image/x-icon" href="{{ "favicon.ico" | absURL }}">
+<link rel="apple-touch-icon" sizes="180x180" href="{{ "apple-touch-icon.png" | absURL }}">
+<link rel="icon" type="image/png" sizes="32x32" href="{{ "favicon-32x32.png" | absURL }}">
+<link rel="icon" type="image/png" sizes="16x16" href="{{ "favicon-16x16.png" | absURL }}">
+<link rel="manifest" href="{{ "site.webmanifest" | absURL }}">
+
+<!-- Structured Data -->
+{{ if .IsHome }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "{{ .Site.Title }}",
+  "url": "{{ .Site.BaseURL }}",
+  "description": "{{ $description }}",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "{{ .Site.BaseURL }}/search/?q={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
+{{ else }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "{{ $title }}",
+  "description": "{{ $description }}",
+  "url": "{{ $canonical }}",
+  "datePublished": "{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}",
+  "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}",
+  "author": {
+    "@type": "Organization",
+    "name": "{{ $author }}"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "{{ .Site.Title }}",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "{{ "images/logo.png" | absURL }}"
+    }
+  }
+}
+</script>
+{{ end }}
+
+<!-- Additional SEO Tags -->
+<meta name="generator" content="Hugo {{ hugo.Version }}">
+<meta name="format-detection" content="telephone=no">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+
+<!-- Preconnect to external domains -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preconnect" href="https://unpkg.com">
+<link rel="preconnect" href="https://cdn.tailwindcss.com">
