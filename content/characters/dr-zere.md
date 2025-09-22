@@ -1,7 +1,7 @@
 ---
 title: "Dr. Zere"
 description: "A brilliant scientist working on a cure for the infection"
-date: 2024-01-01
+date: 2025-01-01
 type: "character"
 role: "ally"
 categories: ["scientist", "quest-giver"]

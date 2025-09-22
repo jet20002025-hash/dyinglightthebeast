@@ -1,7 +1,7 @@
 ---
 title: "Central Market"
 description: "A bustling marketplace with merchants, supplies, and hidden treasures"
-date: 2024-01-02
+date: 2025-01-02
 type: "location"
 category: "marketplace"
 importance: "high"

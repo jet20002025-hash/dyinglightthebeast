@@ -1,7 +1,7 @@
 ---
 title: "Baseball Bat"
 description: "A versatile melee weapon with good damage and reach"
-date: 2024-01-02
+date: 2025-01-02
 type: "weapon"
 categories: ["melee", "sports"]
 rarity: "common"

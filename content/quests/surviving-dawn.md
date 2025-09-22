@@ -1,7 +1,7 @@
 ---
 title: "Surviving the Dawn"
 description: "Complete walkthrough for the second main quest in Dying Light: The Beast"
-date: 2024-01-02
+date: 2025-01-02
 type: "quest"
 categories: ["main-story"]
 difficulty: "medium"

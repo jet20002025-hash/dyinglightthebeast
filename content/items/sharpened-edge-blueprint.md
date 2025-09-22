@@ -1,7 +1,7 @@
 ---
 title: "Sharpened Edge Blueprint"
 description: "Crafting blueprint for enhancing melee weapons with increased damage"
-date: 2024-01-02
+date: 2025-01-02
 type: "blueprint"
 categories: ["weapon-modification", "melee"]
 rarity: "uncommon"

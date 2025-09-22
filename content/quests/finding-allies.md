@@ -1,7 +1,7 @@
 ---
 title: "Finding Allies"
 description: "Locate and recruit fellow survivors to strengthen the safe house community"
-date: 2024-01-03
+date: 2025-01-03
 type: "quest"
 categories: ["main-story"]
 difficulty: "hard"

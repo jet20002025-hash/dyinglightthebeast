@@ -1,7 +1,7 @@
 ---
 title: "The First Night"
 description: "Your first encounter with the infected in Dying Light: The Beast"
-date: 2024-01-01
+date: 2025-01-01
 type: "quest"
 categories: ["main-story"]
 difficulty: "easy"

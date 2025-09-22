@@ -1,7 +1,7 @@
 ---
 title: "Pipe Wrench"
 description: "A basic melee weapon perfect for beginners"
-date: 2024-01-01
+date: 2025-01-01
 type: "weapon"
 categories: ["melee", "basic"]
 rarity: "common"

@@ -1,7 +1,7 @@
 ---
 title: "Tower Safe House"
 description: "The main safe house and hub for survivors"
-date: 2024-01-01
+date: 2025-01-01
 type: "location"
 category: "safe-house"
 importance: "critical"

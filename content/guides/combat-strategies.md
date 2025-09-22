@@ -1,7 +1,7 @@
 ---
 title: "Combat Strategies Guide"
 description: "Complete guide to combat mechanics, strategies, and techniques in Dying Light: The Beast"
-date: 2024-01-02
+date: 2025-01-02
 type: "guide"
 categories: ["gameplay", "combat"]
 tags: ["combat", "strategy", "techniques"]

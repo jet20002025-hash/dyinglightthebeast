@@ -1,7 +1,7 @@
 ---
 title: "Dying Light: The Beast Wiki - Complete Survival Guide"
 description: "The ultimate Dying Light: The Beast wiki with complete quest walkthroughs, item database, character guides, skill trees, and survival strategies. Master the zombie apocalypse with our comprehensive guides."
-date: 2024-01-01
+date: 2025-01-01
 type: "home"
 keywords: ["dying light the beast", "dying light wiki", "zombie survival guide", "quest walkthrough", "item database", "character guide", "skill tree", "survival strategies"]
 ---
@@ -18,7 +18,7 @@ Welcome to the most comprehensive **Dying Light: The Beast** wiki on the interne
 - **Community Quests**: Special missions with unique rewards
 - **Quest Strategies**: Tips, tricks, and optimal approaches
 
-### 🗡️ Comprehensive Item Database
+### 🗡�?Comprehensive Item Database
 - **Weapons**: Melee and ranged weapons with detailed stats
 - **Blueprints**: Crafting recipes and weapon modifications
 - **Consumables**: Medical supplies, food, and utility items
@@ -37,7 +37,7 @@ Welcome to the most comprehensive **Dying Light: The Beast** wiki on the interne
 - **Power Skills**: Combat and weapon proficiency
 - **Specialized Skills**: Unique abilities and combinations
 
-### 🗺️ Interactive Maps & Locations
+### 🗺�?Interactive Maps & Locations
 - **Safe Houses**: Secure locations and facilities
 - **Marketplaces**: Trading hubs and merchants
 - **Dangerous Areas**: Infected territories and loot locations
@@ -113,4 +113,4 @@ This wiki is constantly updated with new information, strategies, and discoverie
 
 ---
 
-*Last updated: January 2024 | Total Pages: 25+ | Community Contributors: 100+*
+*Last updated: January 2025 | Total Pages: 25+ | Community Contributors: 100+*

@@ -1,7 +1,7 @@
 ---
 title: "Tower Leader"
 description: "The charismatic leader of the Tower Safe House community"
-date: 2024-01-02
+date: 2025-01-02
 type: "character"
 role: "leader"
 categories: ["survivor", "quest-giver"]

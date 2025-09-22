@@ -1,7 +1,7 @@
 ---
 title: "Survivor Sense"
 description: "Enhanced awareness ability for detecting items and enemies"
-date: 2024-01-01
+date: 2025-01-01
 type: "skill"
 category: "survivor"
 tier: 1

@@ -1,7 +1,7 @@
 ---
 title: "Day-Night Cycle Guide"
 description: "Complete guide to understanding and surviving the day-night cycle in Dying Light: The Beast"
-date: 2024-01-02
+date: 2025-01-02
 type: "guide"
 categories: ["gameplay", "survival"]
 tags: ["day-night", "survival", "strategy"]

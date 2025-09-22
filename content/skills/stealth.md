@@ -1,7 +1,7 @@
 ---
 title: "Stealth"
 description: "Advanced stealth abilities for avoiding detection and silent takedowns"
-date: 2024-01-02
+date: 2025-01-02
 type: "skill"
 category: "agility"
 tier: 2

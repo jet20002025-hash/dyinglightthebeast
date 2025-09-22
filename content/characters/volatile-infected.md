@@ -1,7 +1,7 @@
 ---
 title: "Volatile Infected"
 description: "The most dangerous type of infected, capable of devastating attacks and rapid movement"
-date: 2024-01-02
+date: 2025-01-02
 type: "character"
 role: "enemy"
 categories: ["infected", "boss"]
