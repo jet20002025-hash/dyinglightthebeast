@@ -68,13 +68,25 @@ Welcome to the most comprehensive **Dying Light: The Beast** wiki on the interne
 
 ## 📚 Popular Guides
 
+- **[Game Overview](/game-overview/)**: Complete game information and release details
+- **[Kyle Crane Character](/characters/kyle-crane/)**: Learn about the dual-DNA protagonist
+- **[Castor Woods Valley](/map/castor-woods-valley/)**: Explore the game world and biomes
+- **[Dual Gameplay System](/guides/dual-gameplay-system/)**: Master human/beast mode switching
+- **[4-Player Co-op](/guides/coop-multiplayer/)**: Team up with friends for survival
 - **[Day-Night Cycle Guide](/guides/day-night-cycle/)**: Master the time-based survival mechanics
 - **[Combat Strategies](/guides/combat-strategies/)**: Advanced combat techniques and tactics
-- **[Resource Management](/guides/resource-management/)**: Efficient supply gathering and usage
-- **[Stealth Techniques](/guides/stealth-techniques/)**: Silent takedowns and stealth gameplay
+- **[Preorder Information](/preorder-info/)**: Pricing, editions, and exclusive content
+- **[FAQ](/faq/)**: Frequently asked questions and answers
 
 ## 🔥 Latest Updates
 
+- **Game Overview**: Complete game information with release date and platform details
+- **Kyle Crane Character**: Detailed profile of the dual-DNA protagonist
+- **Castor Woods Valley**: Comprehensive guide to the game world and biomes
+- **Dual Gameplay System**: Complete guide to human/beast mode switching
+- **4-Player Co-op**: Teamwork and cooperation strategies
+- **Preorder Information**: Pricing, editions, and exclusive content details
+- **FAQ Section**: Answers to frequently asked questions
 - **New Quest Walkthroughs**: Added detailed guides for main story missions
 - **Expanded Item Database**: More weapons, blueprints, and consumables
 - **Character Profiles**: Detailed information about NPCs and enemies
@@ -101,4 +113,4 @@ This wiki is constantly updated with new information, strategies, and discoverie
 
 ---
 
-*Last updated: January 2024 | Total Pages: 50+ | Community Contributors: 100+*
+*Last updated: January 2024 | Total Pages: 25+ | Community Contributors: 100+*
