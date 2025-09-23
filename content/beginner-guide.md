@@ -1,6 +1,6 @@
 ---
-title: "Dying Light: The Beast 新手完整指南"
-description: "Dying Light: The Beast新手完整指南 - 从零开始的生存攻略、技能优先级、资源管理、Beast Mode入门、常见错误避免。帮助新手快速上手游戏。"
+title: "Dying Light: The Beast Complete Beginner Guide"
+description: "Dying Light: The Beast complete beginner guide - survival strategies from scratch, skill priorities, resource management, Beast Mode introduction, common mistakes to avoid. Help new players get started quickly."
 date: 2025-01-03
 type: "beginner-guide"
 categories: ["guide", "beginner", "tutorial"]
@@ -8,239 +8,239 @@ tags: ["beginner", "guide", "tutorial", "survival", "tips", "strategy"]
 featured_image: "/images/beginner-guide/new-player-hero.jpg"
 ---
 
-# Dying Light: The Beast 新手完整指南
+# Dying Light: The Beast Complete Beginner Guide
 
-欢迎来到 **Dying Light: The Beast** 的世界！本指南将帮助新手玩家快速上手游戏，掌握生存技巧，并避免常见错误。无论你是Dying Light系列的新手还是老玩家，都能从中获得有用的信息。
+Welcome to the world of **Dying Light: The Beast**! This guide will help new players get started quickly, master survival skills, and avoid common mistakes. Whether you're new to the Dying Light series or a veteran player, you can gain useful information from this guide.
 
-## 🎯 游戏开始前的准备
+## 🎯 Preparation Before Starting the Game
 
-### 了解游戏基础
-- **游戏类型**: 开放世界动作生存恐怖
-- **核心机制**: 双重模式（人类/野兽）
-- **主要目标**: 在Castor Woods中生存并探索Kyle Crane的故事
-- **游戏时长**: 主线约25小时，完整体验约65小时
+### Understanding Game Basics
+- **Game Type**: Open-world action survival horror
+- **Core Mechanics**: Dual mode (Human/Beast)
+- **Main Objective**: Survive in Castor Woods and explore Kyle Crane's story
+- **Game Duration**: Main story about 25 hours, complete experience about 65 hours
 
-### 选择适合的难度
-- **简单模式**: 适合新手，敌人较弱，资源丰富
-- **普通模式**: 平衡体验，推荐新手选择
-- **困难模式**: 挑战性高，适合有经验的玩家
-- **噩梦模式**: 极高难度，仅限专家玩家
+### Choosing the Right Difficulty
+- **Easy Mode**: Suitable for beginners, weaker enemies, abundant resources
+- **Normal Mode**: Balanced experience, recommended for beginners
+- **Hard Mode**: High challenge, suitable for experienced players
+- **Nightmare Mode**: Extremely high difficulty, only for expert players
 
-### 平台选择建议
-- **PC**: 最佳体验，支持高帧率和图形设置
-- **PS5**: 优秀体验，支持触觉反馈
-- **Xbox Series X|S**: 良好体验，支持Quick Resume
+### Platform Selection Recommendations
+- **PC**: Best experience, supports high frame rate and graphics settings
+- **PS5**: Excellent experience, supports haptic feedback
+- **Xbox Series X|S**: Good experience, supports Quick Resume
 
-## 🚀 游戏开始指南
+## 🚀 Game Start Guide
 
-### 第一章：初入Castor Woods
-1. **跟随教程**: 认真完成所有教程任务
-2. **学习基础操作**: 掌握移动、跳跃、攻击
-3. **了解环境**: 熟悉Castor Woods的环境
-4. **收集资源**: 开始收集基础资源
+### Chapter 1: Entering Castor Woods
+1. **Follow Tutorial**: Complete all tutorial missions carefully
+2. **Learn Basic Operations**: Master movement, jumping, attacking
+3. **Understand Environment**: Familiarize with Castor Woods environment
+4. **Collect Resources**: Start collecting basic resources
 
-### 基础操作掌握
-- **移动**: WASD移动，空格跳跃
-- **攻击**: 鼠标左键攻击，右键格挡
-- **Beast Mode**: 按F键切换模式
-- **互动**: E键与环境互动
-- **地图**: Tab键打开地图
+### Mastering Basic Operations
+- **Movement**: WASD to move, Space to jump
+- **Attack**: Left mouse button to attack, right mouse button to block
+- **Beast Mode**: Press F to switch modes
+- **Interaction**: E key to interact with environment
+- **Map**: Tab key to open map
 
-### 第一个任务建议
-- **优先完成**: "The First Night"任务
-- **学习重点**: 昼夜循环机制
-- **收集资源**: 医疗包、武器、材料
-- **建立基地**: 找到第一个安全屋
+### First Mission Recommendations
+- **Priority**: Complete "The First Night" mission
+- **Learning Focus**: Day-night cycle mechanics
+- **Collect Resources**: Medical kits, weapons, materials
+- **Establish Base**: Find the first safe house
 
-## ⚔️ 战斗系统入门
+## ⚔️ Combat System Introduction
 
-### 人类模式战斗
-#### 基础攻击
-- **轻攻击**: 快速攻击，伤害较低
-- **重攻击**: 强力攻击，伤害较高
-- **连击**: 连续攻击造成更多伤害
-- **格挡**: 格挡敌人攻击
+### Human Mode Combat
+#### Basic Attacks
+- **Light Attack**: Fast attack, lower damage
+- **Heavy Attack**: Powerful attack, higher damage
+- **Combo**: Continuous attacks cause more damage
+- **Block**: Block enemy attacks
 
-#### 武器使用
-- **近战武器**: 棒球棒、扳手等
-- **远程武器**: 手枪、步枪等
-- **投掷武器**: 手榴弹、燃烧瓶等
-- **环境武器**: 利用环境物品
+#### Weapon Usage
+- **Melee Weapons**: Baseball bat, wrench, etc.
+- **Ranged Weapons**: Pistol, rifle, etc.
+- **Throwing Weapons**: Grenades, molotov cocktails, etc.
+- **Environmental Weapons**: Use environmental items
 
-### 野兽模式战斗
-#### 基础野兽攻击
-- **爪击**: 快速连续攻击
-- **撕裂**: 强力攻击，无视护甲
-- **跳跃攻击**: 从高处攻击
-- **群体攻击**: 同时攻击多个敌人
+### Beast Mode Combat
+#### Basic Beast Attacks
+- **Claw Strike**: Fast continuous attacks
+- **Rend**: Powerful attack, ignores armor
+- **Jump Attack**: Attack from high places
+- **Group Attack**: Attack multiple enemies simultaneously
 
-#### 怒气管理
-- **积累怒气**: 通过战斗和伤害积累
-- **使用技能**: 消耗怒气使用野兽技能
-- **控制怒气**: 避免怒气过热
-- **冷却恢复**: 等待怒气值恢复
+#### Rage Management
+- **Accumulate Rage**: Accumulate through combat and damage
+- **Use Skills**: Consume rage to use beast skills
+- **Control Rage**: Avoid rage overheating
+- **Cool Down Recovery**: Wait for rage value to recover
 
-## 🎯 技能优先级建议
+## 🎯 Skill Priority Recommendations
 
-### 新手技能优先级
-1. **生存技能**: 生命值、耐力、医疗
-2. **战斗技能**: 攻击力、防御力、武器掌握
-3. **移动技能**: 跑酷、跳跃、攀爬
-4. **Beast Mode技能**: 基础野兽能力
+### Beginner Skill Priorities
+1. **Survival Skills**: Health, stamina, medical
+2. **Combat Skills**: Attack power, defense, weapon mastery
+3. **Movement Skills**: Parkour, jumping, climbing
+4. **Beast Mode Skills**: Basic beast abilities
 
-### 技能分配建议
-- **生存技能**: 40%的技能点
-- **战斗技能**: 30%的技能点
-- **移动技能**: 20%的技能点
-- **Beast Mode技能**: 10%的技能点
+### Skill Allocation Recommendations
+- **Survival Skills**: 40% of skill points
+- **Combat Skills**: 30% of skill points
+- **Movement Skills**: 20% of skill points
+- **Beast Mode Skills**: 10% of skill points
 
-### 技能解锁顺序
-1. **基础生存**: 生命值、耐力、医疗
-2. **基础战斗**: 攻击力、防御力
-3. **基础移动**: 跑酷、跳跃
-4. **Beast Mode**: 基础野兽能力
-5. **高级技能**: 根据个人喜好选择
+### Skill Unlock Order
+1. **Basic Survival**: Health, stamina, medical
+2. **Basic Combat**: Attack power, defense
+3. **Basic Movement**: Parkour, jumping
+4. **Beast Mode**: Basic beast abilities
+5. **Advanced Skills**: Choose based on personal preference
 
-## 🗺️ 探索和资源管理
+## 🗺️ Exploration and Resource Management
 
-### 探索策略
-#### 白天探索
-- **相对安全**: 白天敌人较少
-- **收集资源**: 重点收集材料和武器
-- **完成任务**: 完成主要任务
-- **建立基地**: 寻找和建立安全屋
+### Exploration Strategy
+#### Daytime Exploration
+- **Relatively Safe**: Fewer enemies during the day
+- **Collect Resources**: Focus on collecting materials and weapons
+- **Complete Missions**: Complete main missions
+- **Establish Base**: Find and establish safe houses
 
-#### 夜晚探索
-- **危险增加**: 夜晚敌人更强
-- **谨慎行动**: 避免不必要的战斗
-- **使用Beast Mode**: 利用野兽能力
-- **团队合作**: 与队友一起行动
+#### Nighttime Exploration
+- **Increased Danger**: Enemies are stronger at night
+- **Cautious Action**: Avoid unnecessary combat
+- **Use Beast Mode**: Utilize beast abilities
+- **Team Cooperation**: Act together with teammates
 
-### 资源管理
-#### 重要资源
-- **医疗包**: 恢复生命值
-- **武器**: 近战和远程武器
-- **材料**: 制作和升级物品
-- **食物**: 恢复体力和生命值
+### Resource Management
+#### Important Resources
+- **Medical Kits**: Restore health
+- **Weapons**: Melee and ranged weapons
+- **Materials**: Craft and upgrade items
+- **Food**: Restore stamina and health
 
-#### 资源收集技巧
-- **优先收集**: 医疗包和武器
-- **合理使用**: 不要浪费资源
-- **存储管理**: 合理管理背包空间
-- **制作升级**: 制作和升级装备
+#### Resource Collection Tips
+- **Priority Collection**: Medical kits and weapons
+- **Reasonable Use**: Don't waste resources
+- **Storage Management**: Manage backpack space reasonably
+- **Crafting and Upgrades**: Craft and upgrade equipment
 
-## 🏠 基地建设和管理
+## 🏠 Base Construction and Management
 
-### 安全屋选择
-- **位置**: 选择安全的位置
-- **设施**: 确保有必要的设施
-- **防御**: 建立防御措施
-- **存储**: 提供存储空间
+### Safe House Selection
+- **Location**: Choose a safe location
+- **Facilities**: Ensure necessary facilities
+- **Defense**: Establish defense measures
+- **Storage**: Provide storage space
 
-### 基地升级
-- **防御升级**: 提高基地防御力
-- **设施升级**: 改善基地设施
-- **存储升级**: 增加存储空间
-- **功能升级**: 添加新功能
+### Base Upgrades
+- **Defense Upgrades**: Improve base defense
+- **Facility Upgrades**: Improve base facilities
+- **Storage Upgrades**: Increase storage space
+- **Function Upgrades**: Add new functions
 
-## 👥 合作模式入门
+## 👥 Co-op Mode Introduction
 
-### 团队合作基础
-- **角色分工**: 不同玩家承担不同角色
-- **沟通协调**: 保持良好沟通
-- **资源共享**: 合理分配资源
-- **战术配合**: 制定战术计划
+### Team Cooperation Basics
+- **Role Division**: Different players take different roles
+- **Communication Coordination**: Maintain good communication
+- **Resource Sharing**: Reasonably allocate resources
+- **Tactical Coordination**: Develop tactical plans
 
-### 合作策略
-- **人类模式**: 负责远程攻击和支援
-- **野兽模式**: 负责近战攻击和冲锋
-- **混合模式**: 根据情况切换模式
-- **团队模式**: 统一行动和决策
+### Cooperation Strategy
+- **Human Mode**: Responsible for ranged attacks and support
+- **Beast Mode**: Responsible for melee attacks and charges
+- **Mixed Mode**: Switch modes based on situation
+- **Team Mode**: Unified action and decision-making
 
-## ⚠️ 常见错误避免
+## ⚠️ Common Mistakes to Avoid
 
-### 新手常见错误
-1. **忽视教程**: 不认真完成教程
-2. **资源浪费**: 不合理使用资源
-3. **技能分配**: 技能点分配不当
-4. **战斗策略**: 战斗策略错误
-5. **探索时机**: 探索时机选择错误
+### Common Beginner Mistakes
+1. **Ignore Tutorial**: Not completing tutorial seriously
+2. **Resource Waste**: Unreasonable use of resources
+3. **Skill Allocation**: Improper skill point allocation
+4. **Combat Strategy**: Wrong combat strategy
+5. **Exploration Timing**: Wrong exploration timing
 
-### 错误避免建议
-- **认真教程**: 认真完成所有教程
-- **合理资源**: 合理使用和管理资源
-- **技能规划**: 提前规划技能分配
-- **战斗学习**: 学习正确的战斗技巧
-- **时机选择**: 选择合适的探索时机
+### Mistake Avoidance Recommendations
+- **Serious Tutorial**: Complete all tutorials seriously
+- **Reasonable Resources**: Use and manage resources reasonably
+- **Skill Planning**: Plan skill allocation in advance
+- **Combat Learning**: Learn correct combat techniques
+- **Timing Selection**: Choose appropriate exploration timing
 
-## 🎮 游戏技巧和策略
+## 🎮 Game Tips and Strategies
 
-### 生存技巧
-- **保持移动**: 不要在一个地方停留太久
-- **利用环境**: 利用环境优势
-- **团队合作**: 与队友保持合作
-- **资源管理**: 合理管理资源
+### Survival Tips
+- **Keep Moving**: Don't stay in one place too long
+- **Use Environment**: Utilize environmental advantages
+- **Team Cooperation**: Maintain cooperation with teammates
+- **Resource Management**: Manage resources reasonably
 
-### 战斗技巧
-- **人类模式**: 利用射程和精度优势
-- **野兽模式**: 利用速度和力量优势
-- **形态切换**: 根据情况切换模式
-- **环境利用**: 利用环境进行战斗
+### Combat Tips
+- **Human Mode**: Utilize range and precision advantages
+- **Beast Mode**: Utilize speed and strength advantages
+- **Form Switching**: Switch modes based on situation
+- **Environmental Use**: Use environment for combat
 
-### 探索技巧
-- **白天探索**: 优先在白天探索
-- **夜晚谨慎**: 夜晚行动要谨慎
-- **标记位置**: 标记重要位置
-- **路线规划**: 规划探索路线
+### Exploration Tips
+- **Daytime Exploration**: Prioritize daytime exploration
+- **Night Caution**: Be cautious when acting at night
+- **Mark Locations**: Mark important locations
+- **Route Planning**: Plan exploration routes
 
-## 📊 进度跟踪
+## 📊 Progress Tracking
 
-### 主要进度指标
-- **主线任务**: 完成主线任务进度
-- **支线任务**: 完成支线任务数量
-- **技能等级**: 技能等级提升
-- **资源收集**: 资源收集数量
+### Main Progress Indicators
+- **Main Missions**: Main mission completion progress
+- **Side Missions**: Number of side missions completed
+- **Skill Level**: Skill level improvement
+- **Resource Collection**: Resource collection quantity
 
-### 进度建议
-- **主线优先**: 优先完成主线任务
-- **支线补充**: 适当完成支线任务
-- **技能平衡**: 保持技能平衡发展
-- **资源充足**: 确保资源充足
+### Progress Recommendations
+- **Main Priority**: Prioritize main missions
+- **Side Supplement**: Appropriately complete side missions
+- **Skill Balance**: Maintain balanced skill development
+- **Resource Sufficiency**: Ensure sufficient resources
 
-## 🎯 进阶建议
+## 🎯 Advanced Recommendations
 
-### 中级玩家建议
-- **技能专精**: 选择技能专精方向
-- **装备升级**: 升级装备和武器
-- **基地建设**: 建设更完善的基地
-- **团队协作**: 提高团队协作能力
+### Intermediate Player Recommendations
+- **Skill Specialization**: Choose skill specialization direction
+- **Equipment Upgrades**: Upgrade equipment and weapons
+- **Base Construction**: Build more complete bases
+- **Team Collaboration**: Improve team collaboration abilities
 
-### 高级玩家建议
-- **完美主义**: 追求完美的游戏体验
-- **挑战模式**: 尝试更高难度的挑战
-- **社区参与**: 参与社区活动和讨论
-- **内容创作**: 创作游戏相关内容
+### Advanced Player Recommendations
+- **Perfectionism**: Pursue perfect gaming experience
+- **Challenge Mode**: Try higher difficulty challenges
+- **Community Participation**: Participate in community activities and discussions
+- **Content Creation**: Create game-related content
 
-## 📞 获取帮助
+## 📞 Getting Help
 
-### 官方支持
-- **官方论坛**: Techland官方社区
-- **客服邮箱**: support@techland.com
-- **官方Discord**: 官方Discord服务器
-- **社交媒体**: 官方社交媒体账号
+### Official Support
+- **Official Forum**: Techland official community
+- **Customer Service Email**: support@techland.com
+- **Official Discord**: Official Discord server
+- **Social Media**: Official social media accounts
 
-### 社区支持
-- **Reddit**: r/dyinglight社区
-- **Steam社区**: Steam游戏社区
-- **YouTube**: 游戏攻略视频
-- **Twitch**: 游戏直播
+### Community Support
+- **Reddit**: r/dyinglight community
+- **Steam Community**: Steam game community
+- **YouTube**: Game strategy videos
+- **Twitch**: Game livestreams
 
-### 学习资源
-- **官方指南**: 官方游戏指南
-- **视频教程**: YouTube视频教程
-- **文字攻略**: 游戏攻略网站
-- **社区讨论**: 社区讨论和分享
+### Learning Resources
+- **Official Guide**: Official game guide
+- **Video Tutorials**: YouTube video tutorials
+- **Text Guides**: Game guide websites
+- **Community Discussion**: Community discussion and sharing
 
 ---
 
-*最后更新: 2025年1月3日 | 适用版本: Dying Light: The Beast | 难度: 新手友好*
+*Last Updated: January 3, 2025 | Applicable Version: Dying Light: The Beast | Difficulty: Beginner Friendly*

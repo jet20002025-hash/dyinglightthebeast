@@ -1,6 +1,6 @@
 ---
-title: "Dying Light: The Beast - 游戏概览"
-description: "Dying Light: The Beast完整游戏信息 - 2025年9月18日发布，支持PC、PS5、Xbox Series X|S，体验Kyle Crane的双重DNA和Castor Woods山谷的生存恐怖"
+title: "Dying Light: The Beast - Game Overview"
+description: "Complete game information for Dying Light: The Beast - Release date September 18, 2025, supports PC, PS5, Xbox Series X|S, experience Kyle Crane's dual DNA and survival horror in Castor Woods valley"
 date: 2025-01-03
 type: "overview"
 categories: ["game-info"]
@@ -8,127 +8,127 @@ tags: ["dying light the beast", "kyle crane", "castor woods", "dual gameplay", "
 featured_image: "/images/game-overview/hero-image.jpg"
 ---
 
-# Dying Light: The Beast - 游戏概览
+# Dying Light: The Beast - Game Overview
 
-**Dying Light: The Beast** 是一款即将于2025年9月18日发布的开放世界动作生存恐怖游戏。体验Kyle Crane的独特故事，一个拥有人类和怪物双重DNA的英雄，在美丽的Castor Woods山谷中生存。
+**Dying Light: The Beast** is an upcoming open-world action survival horror game set to release on **September 18, 2025**. Experience the unique story of Kyle Crane, a hero with both human and monster DNA, surviving in the beautiful Castor Woods valley.
 
-## 🎮 基本信息
+## 🎮 Basic Information
 
-### 发布时间
-- **发布日期**: 2025年9月18日
-- **开发商**: Techland
-- **发行商**: Techland
-- **游戏类型**: 开放世界动作生存恐怖
+### Release Information
+- **Release Date**: September 18, 2025
+- **Developer**: Techland
+- **Publisher**: Techland
+- **Genre**: Open-world action survival horror
 
-### 支持平台
+### Supported Platforms
 - **PC**: Steam, Epic Games Store
-- **PlayStation 5**: 标准版和Pro版
-- **Xbox Series X|S**: 完整支持
+- **PlayStation 5**: Standard and Pro versions
+- **Xbox Series X|S**: Full support
 
-## 🧬 核心设定
+## 🧬 Core Setting
 
-### Kyle Crane - 双重DNA英雄
-- **主角**: Kyle Crane（凯尔·克兰）
-- **独特设定**: 拥有人类和怪物的双重DNA
-- **能力**: 可以在人类和野兽模式间切换
-- **背景**: 在Castor Woods山谷中探索自己的双重本性
+### Kyle Crane - Dual DNA Hero
+- **Protagonist**: Kyle Crane
+- **Unique Setting**: Possesses both human and monster DNA
+- **Abilities**: Can switch between human and beast modes
+- **Background**: Explores his dual nature in the Castor Woods valley
 
-### Castor Woods山谷
-- **地点**: 受瑞士阿尔卑斯山启发的山区
-- **环境**: 美丽但正在衰败的世界
-- **生物群落**: 旅游小镇、工业区、国家公园、农田、沼泽
-- **特色**: 手工艺制作的僵尸末日环境
+### Castor Woods Valley
+- **Location**: Mountain valley inspired by the Swiss Alps
+- **Environment**: Beautiful but decaying world
+- **Biomes**: Tourist towns, industrial areas, national parks, farmland, swamps
+- **Features**: Handcrafted zombie apocalypse environment
 
-## 🔄 核心游戏机制
+## 🔄 Core Gameplay Mechanics
 
-### 双重游戏系统
-- **人类模式**: 使用智力和策略进行生存
-- **野兽模式**: 释放原始力量和残酷战斗能力
-- **模式切换**: 在两种模式间自由切换
-- **内在冲突**: 体验人类与怪物之间的内心斗争
+### Dual Gameplay System
+- **Human Mode**: Use intelligence and strategy for survival
+- **Beast Mode**: Unleash primitive power and brutal combat abilities
+- **Mode Switching**: Freely switch between two modes
+- **Internal Conflict**: Experience the inner struggle between human and monster
 
-### 昼夜循环生存
-- **白天**: 探索和收集资源，相对安全
-- **夜晚**: 恐怖怪物出现，游戏体验完全改变
-- **策略选择**: 逃跑、躲藏或战斗
+### Day-Night Cycle Survival
+- **Daytime**: Explore and collect resources, relatively safe
+- **Nighttime**: Terrifying monsters appear, completely changing the game experience
+- **Strategic Choices**: Run, hide, or fight
 
-### 第一人称跑酷
-- **流畅移动**: 从屋顶跳跃、攀爬障碍物
-- **环境互动**: 与Castor Woods环境深度互动
-- **无与伦比的自由**: 第一人称视角的精确导航
+### First-Person Parkour
+- **Fluid Movement**: Jump from rooftops, climb obstacles
+- **Environmental Interaction**: Deep interaction with Castor Woods environment
+- **Unparalleled Freedom**: Precise navigation in first-person perspective
 
-## 👥 多人合作
+## 👥 Multiplayer Cooperation
 
-### 4人合作模式
-- **玩家数量**: 最多4名玩家
-- **进度共享**: 与朋友分享游戏进度
-- **共同体验**: 每个战斗、发现和故事转折
-- **团队策略**: 协调人类和野兽模式的使用
+### 4-Player Co-op Mode
+- **Player Count**: Up to 4 players
+- **Progress Sharing**: Share game progress with friends
+- **Shared Experience**: Every battle, discovery, and story twist
+- **Team Strategy**: Coordinate the use of human and beast modes
 
-## ⚔️ 战斗系统
+## ⚔️ Combat System
 
-### 残酷战斗进化
-- **原始暴力**: 粉碎敌人、撕掉头部、将敌人一分为二
-- **愤怒驱动**: 不断进化的野兽技能
-- **战斗进化**: 将Dying Light战斗推向新极限
-- **环境利用**: 使用环境进行战术战斗
+### Brutal Combat Evolution
+- **Primitive Violence**: Crush enemies, tear off heads, split enemies in half
+- **Rage-Driven**: Continuously evolving beast skills
+- **Combat Evolution**: Pushing Dying Light combat to new limits
+- **Environmental Utilization**: Use environment for tactical combat
 
-## 🗺️ 游戏世界
+## 🗺️ Game World
 
-### 多样化环境
-- **旅游小镇**: 文明遗迹和资源点
-- **工业区**: 危险但资源丰富的区域
-- **国家公园**: 自然环境和野生动物
-- **农田**: 农业资源和开阔地带
-- **沼泽**: 危险但神秘的区域
+### Diverse Environments
+- **Tourist Towns**: Remnants of civilization and resource points
+- **Industrial Areas**: Dangerous but resource-rich areas
+- **National Parks**: Natural environments and wildlife
+- **Farmland**: Agricultural resources and open areas
+- **Swamps**: Dangerous but mysterious areas
 
-### 探索要素
-- **资源收集**: 在白天安全收集资源
-- **秘密发现**: 隐藏的故事和奖励
-- **环境叙事**: 通过环境讲述故事
-- **生存挑战**: 适应不同环境的生存策略
+### Exploration Elements
+- **Resource Collection**: Safely collect resources during the day
+- **Secret Discovery**: Hidden stories and rewards
+- **Environmental Storytelling**: Stories told through the world
+- **Survival Challenges**: Adapt survival strategies to different environments
 
-## 🎯 游戏特色
+## 🎯 Game Features
 
-### 技术创新
-- **次世代图形**: 充分利用次世代主机性能
-- **无缝切换**: 人类和野兽模式间的流畅过渡
-- **动态环境**: 响应玩家行为的游戏世界
-- **沉浸式体验**: 第一人称视角的深度沉浸
+### Technical Innovation
+- **Next-Gen Graphics**: Fully utilize next-gen console performance
+- **Seamless Switching**: Smooth transitions between human and beast modes
+- **Dynamic Environment**: Game world that responds to player behavior
+- **Immersive Experience**: Deep immersion in first-person perspective
 
-### 叙事深度
-- **角色发展**: Kyle Crane的内心斗争和成长
-- **道德选择**: 人类与野兽本性的平衡
-- **环境叙事**: 通过世界讲述的丰富故事
-- **情感体验**: 生存恐怖中的情感深度
+### Narrative Depth
+- **Character Development**: Kyle Crane's inner struggle and growth
+- **Moral Choices**: Balance between human and beast nature
+- **Environmental Storytelling**: Rich stories told through the world
+- **Emotional Experience**: Emotional depth in survival horror
 
-## 🏆 为什么选择Dying Light: The Beast
+## 🏆 Why Choose Dying Light: The Beast
 
-### 独特体验
-- **前所未有的设定**: 双重DNA英雄的独特故事
-- **创新机制**: 人类/野兽模式切换的全新玩法
-- **丰富世界**: 精心制作的Castor Woods山谷
-- **合作乐趣**: 与朋友一起体验生存恐怖
+### Unique Experience
+- **Unprecedented Setting**: Unique story of dual DNA hero
+- **Innovative Mechanics**: New gameplay of human/beast mode switching
+- **Rich World**: Carefully crafted Castor Woods valley
+- **Cooperative Fun**: Experience survival horror with friends
 
-### 技术优势
-- **次世代性能**: 充分利用最新硬件
-- **流畅体验**: 优化的游戏性能和稳定性
-- **持续更新**: 开发商承诺的长期支持
-- **社区驱动**: 倾听玩家反馈的持续改进
+### Technical Advantages
+- **Next-Gen Performance**: Fully utilize latest hardware
+- **Smooth Experience**: Optimized game performance and stability
+- **Continuous Updates**: Developer's commitment to long-term support
+- **Community-Driven**: Continuous improvement based on player feedback
 
-## 📅 发布计划
+## 📅 Release Plan
 
-### 预购信息
-- **预购开始**: 现已开始
-- **预购奖励**: Hero of Harran Bundle独家内容
-- **版本选择**: 标准版、Bundle版、收藏版
-- **早期访问**: 预购玩家可能获得早期体验
+### Pre-order Information
+- **Pre-order Start**: Now available
+- **Pre-order Rewards**: Hero of Harran Bundle exclusive content
+- **Edition Options**: Standard, Bundle, Collector's editions
+- **Early Access**: Pre-order players may get early access
 
-### 后续内容
-- **DLC计划**: 扩展内容和新区域
-- **社区活动**: 定期更新和社区活动
-- **长期支持**: 持续的内容更新和支持
+### Future Content
+- **DLC Plans**: Expansion content and new areas
+- **Community Events**: Regular updates and community activities
+- **Long-term Support**: Continuous content updates and support
 
 ---
 
-*发布日期: 2025年9月18日 | 开发商: Techland | 平台: PC, PS5, Xbox Series X|S*
+*Release Date: September 18, 2025 | Developer: Techland | Platforms: PC, PS5, Xbox Series X|S*

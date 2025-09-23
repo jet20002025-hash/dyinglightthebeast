@@ -1,6 +1,6 @@
 ---
-title: "Dying Light: The Beast 发布日期和发布信息"
-description: "Dying Light: The Beast 2025年9月18日全球发布，支持PC、PS5、Xbox Series X|S。详细发布时间表、预载时间、解锁时间和平台信息。"
+title: "Dying Light: The Beast Release Date and Launch Information"
+description: "Dying Light: The Beast global release on September 18, 2025, supports PC, PS5, Xbox Series X|S. Detailed release schedule, preload times, unlock times, and platform information."
 date: 2025-01-03
 type: "release-info"
 categories: ["release", "info"]
@@ -8,154 +8,154 @@ tags: ["release date", "launch", "preload", "unlock time", "platforms"]
 featured_image: "/images/release-date/launch-timeline.jpg"
 ---
 
-# Dying Light: The Beast 发布日期和发布信息
+# Dying Light: The Beast Release Date and Launch Information
 
-**Dying Light: The Beast** 将于 **2025年9月18日** 全球同步发布！Techland 确认游戏将在所有支持平台上同时解锁，为全球玩家带来统一的发布体验。
+**Dying Light: The Beast** will be released globally on **September 18, 2025**! Techland has confirmed that the game will unlock simultaneously on all supported platforms, providing a unified release experience for players worldwide.
 
-## 📅 核心发布信息
+## 📅 Core Release Information
 
-### 全球发布时间
-- **发布日期**: 2025年9月18日
-- **解锁时间**: 09:00 PDT / 16:00 UTC
-- **时区**: 全球同步解锁
-- **开发商**: Techland
-- **发行商**: Techland
+### Global Release Time
+- **Release Date**: September 18, 2025
+- **Unlock Time**: 09:00 PDT / 16:00 UTC
+- **Timezone**: Global simultaneous unlock
+- **Developer**: Techland
+- **Publisher**: Techland
 
-### 支持平台
+### Supported Platforms
 - **PC**: Steam, Epic Games Store
-- **PlayStation 5**: 标准版和Pro版
-- **Xbox Series X|S**: 完整支持
-- **跨平台**: 支持跨平台合作游戏
+- **PlayStation 5**: Standard and Pro versions
+- **Xbox Series X|S**: Full support
+- **Cross-platform**: Cross-platform co-op support
 
-## ⏰ 详细时间表
+## ⏰ Detailed Schedule
 
-### 预载时间安排
-- **Xbox平台**: 9月15日 09:00 PDT
-- **PlayStation平台**: 9月16日 09:00 PDT  
-- **Steam平台**: 9月17日 06:00 PDT (加密下载)
+### Preload Time Arrangements
+- **Xbox Platform**: September 15, 09:00 PDT
+- **PlayStation Platform**: September 16, 09:00 PDT  
+- **Steam Platform**: September 17, 06:00 PDT (encrypted download)
 
-### 早期访问
-- **豪华版和终极版**: 9月15日 09:00 PDT (72小时早期访问)
-- **标准版**: 9月18日 09:00 PDT
-- **实体版**: 9月17日发货，但需等待服务器激活
+### Early Access
+- **Deluxe and Ultimate Editions**: September 15, 09:00 PDT (72-hour early access)
+- **Standard Edition**: September 18, 09:00 PDT
+- **Physical Edition**: Ships September 17, but requires server activation
 
-## 💾 安装和存储要求
+## 💾 Installation and Storage Requirements
 
-### 游戏大小
-- **基础游戏**: 约70GB
-- **首日补丁**: 
-  - 主机版: 12.6GB
-  - PC版: 9.8GB
-- **总存储需求**: 建议预留120GB SSD空间
+### Game Size
+- **Base Game**: Approximately 70GB
+- **Day One Patch**: 
+  - Console: 12.6GB
+  - PC: 9.8GB
+- **Total Storage**: Recommend reserving 120GB SSD space
 
-### 存储建议
-- **必需**: SSD存储 (机械硬盘可能导致性能问题)
-- **推荐**: NVMe SSD (最佳性能)
-- **最低**: SATA SSD (可接受性能)
+### Storage Recommendations
+- **Required**: SSD storage (mechanical drives may cause performance issues)
+- **Recommended**: NVMe SSD (best performance)
+- **Minimum**: SATA SSD (acceptable performance)
 
-## 🎮 版本和预购
+## 🎮 Editions and Pre-orders
 
-### 可用版本
-- **标准版**: $59.99
-- **豪华版**: $79.99 (预购价$69.99)
-- **终极版**: $229.99 (预购价$199.99)
+### Available Editions
+- **Standard Edition**: $59.99
+- **Deluxe Edition**: $79.99 (pre-order $69.99)
+- **Ultimate Edition**: $229.99 (pre-order $199.99)
 
-### 预购优势
-- **价格优惠**: 预购享受折扣价格
-- **独家内容**: 预购专属奖励
-- **早期访问**: 豪华版和终极版72小时早期访问
-- **数字奖励**: 原声音乐、艺术集等
+### Pre-order Benefits
+- **Price Discount**: Enjoy pre-order pricing
+- **Exclusive Content**: Pre-order exclusive rewards
+- **Early Access**: 72-hour early access for Deluxe and Ultimate editions
+- **Digital Rewards**: Original soundtrack, art book, etc.
 
-## 🌍 地区发布详情
+## 🌍 Regional Release Details
 
-### 主要地区解锁时间
-- **北美**: 9月18日 09:00 PDT
-- **欧洲**: 9月18日 16:00 UTC
-- **亚洲**: 9月18日 00:00 JST
-- **澳洲**: 9月18日 02:00 AEST
+### Major Region Unlock Times
+- **North America**: September 18, 09:00 PDT
+- **Europe**: September 18, 16:00 UTC
+- **Asia**: September 18, 00:00 JST
+- **Australia**: September 18, 02:00 AEST
 
-### 时区转换
-- **太平洋时间**: 09:00 PDT
-- **东部时间**: 12:00 EDT
-- **格林威治时间**: 16:00 UTC
-- **北京时间**: 9月19日 00:00 CST
+### Timezone Conversion
+- **Pacific Time**: 09:00 PDT
+- **Eastern Time**: 12:00 EDT
+- **Greenwich Time**: 16:00 UTC
+- **Beijing Time**: September 19, 00:00 CST
 
-## 📱 平台特定信息
+## 📱 Platform-Specific Information
 
-### PC平台
-- **Steam**: 支持Steam Deck
-- **Epic Games Store**: 完整功能支持
-- **系统要求**: Windows 10/11, DirectX 12
-- **推荐配置**: RTX 3070 Ti / RX 6750 XT
+### PC Platform
+- **Steam**: Supports Steam Deck
+- **Epic Games Store**: Full feature support
+- **System Requirements**: Windows 10/11, DirectX 12
+- **Recommended Specs**: RTX 3070 Ti / RX 6750 XT
 
 ### PlayStation 5
-- **标准版**: 完整功能
-- **Pro版**: 增强性能模式
-- **DualSense**: 触觉反馈支持
-- **3D音频**: Tempest 3D AudioTech
+- **Standard Edition**: Full features
+- **Pro Edition**: Enhanced performance mode
+- **DualSense**: Haptic feedback support
+- **3D Audio**: Tempest 3D AudioTech
 
 ### Xbox Series X|S
 - **Series X**: 4K/60fps
 - **Series S**: 1080p/60fps
-- **Quick Resume**: 支持
-- **Smart Delivery**: 自动优化
+- **Quick Resume**: Supported
+- **Smart Delivery**: Automatic optimization
 
-## 🚀 发布周活动
+## 🚀 Launch Week Events
 
-### 特殊活动
-- **双倍奖励**: Hunter Token双倍掉落
-- **Beast Mode大师**: 特殊挑战模式
-- **社区活动**: 全球玩家协作挑战
-- **直播活动**: 官方发布夜直播
+### Special Events
+- **Double Rewards**: Double Hunter Token drops
+- **Beast Mode Mastery**: Special challenge mode
+- **Community Events**: Global player collaboration challenges
+- **Live Events**: Official launch night livestream
 
-### 发布后支持
-- **首日补丁**: 性能优化和bug修复
-- **社区反馈**: 快速响应玩家反馈
-- **持续更新**: 定期内容更新计划
-- **技术支持**: 24/7技术支持
+### Post-Launch Support
+- **Day One Patch**: Performance optimization and bug fixes
+- **Community Feedback**: Quick response to player feedback
+- **Continuous Updates**: Regular content update plans
+- **Technical Support**: 24/7 technical support
 
-## ⚠️ 重要提醒
+## ⚠️ Important Reminders
 
-### 发布前准备
-- **预载游戏**: 提前下载游戏文件
-- **更新驱动**: 更新显卡驱动到最新版本
-- **清理空间**: 确保足够的存储空间
-- **网络检查**: 确保稳定的网络连接
+### Pre-Launch Preparation
+- **Preload Game**: Download game files in advance
+- **Update Drivers**: Update graphics drivers to latest version
+- **Clear Space**: Ensure sufficient storage space
+- **Network Check**: Ensure stable network connection
 
-### 发布日注意事项
-- **服务器负载**: 发布日可能遇到高负载
-- **下载速度**: 可能影响下载速度
-- **排队等待**: 可能需要排队进入游戏
-- **耐心等待**: 保持耐心，享受发布体验
+### Launch Day Notes
+- **Server Load**: May experience high load on launch day
+- **Download Speed**: May affect download speed
+- **Queue Wait**: May need to queue to enter game
+- **Patience**: Stay patient and enjoy the launch experience
 
-## 📞 技术支持
+## 📞 Technical Support
 
-### 常见问题
-- **下载问题**: 检查网络连接和存储空间
-- **性能问题**: 更新驱动和调整设置
-- **连接问题**: 检查防火墙和网络设置
-- **游戏问题**: 联系官方技术支持
+### Common Issues
+- **Download Issues**: Check network connection and storage space
+- **Performance Issues**: Update drivers and adjust settings
+- **Connection Issues**: Check firewall and network settings
+- **Game Issues**: Contact official technical support
 
-### 联系方式
-- **官方邮箱**: support@techland.com
-- **官方论坛**: Techland官方社区
-- **社交媒体**: Twitter, Facebook, Discord
-- **客服热线**: 官方客服电话
+### Contact Information
+- **Official Email**: support@techland.com
+- **Official Forum**: Techland official community
+- **Social Media**: Twitter, Facebook, Discord
+- **Support Hotline**: Official customer service phone
 
-## 🎯 发布倒计时
+## 🎯 Release Countdown
 
-距离 **Dying Light: The Beast** 发布还有：
+Time until **Dying Light: The Beast** release:
 
-- **天**: 约260天
-- **周**: 约37周
-- **月**: 约8.5个月
+- **Days**: Approximately 260 days
+- **Weeks**: Approximately 37 weeks
+- **Months**: Approximately 8.5 months
 
-### 发布前里程碑
-- **Beta测试**: 2025年夏季
-- **最终预览**: 2025年8月
-- **媒体评测**: 2025年9月17日
-- **全球发布**: 2025年9月18日
+### Pre-Launch Milestones
+- **Beta Testing**: Summer 2025
+- **Final Preview**: August 2025
+- **Media Reviews**: September 17, 2025
+- **Global Release**: September 18, 2025
 
 ---
 
-*最后更新: 2025年1月3日 | 发布日期: 2025年9月18日 | 开发商: Techland*
+*Last Updated: January 3, 2025 | Release Date: September 18, 2025 | Developer: Techland*
