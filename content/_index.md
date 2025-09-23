@@ -18,7 +18,7 @@ Welcome to the most comprehensive **Dying Light: The Beast** wiki on the interne
 - **Community Quests**: Special missions with unique rewards
 - **Quest Strategies**: Tips, tricks, and optimal approaches
 
-### 🗡�?Comprehensive Item Database
+### 🗡�?Comprehensive Item Database
 - **Weapons**: Melee and ranged weapons with detailed stats
 - **Blueprints**: Crafting recipes and weapon modifications
 - **Consumables**: Medical supplies, food, and utility items
@@ -37,7 +37,7 @@ Welcome to the most comprehensive **Dying Light: The Beast** wiki on the interne
 - **Power Skills**: Combat and weapon proficiency
 - **Specialized Skills**: Unique abilities and combinations
 
-### 🗺�?Interactive Maps & Locations
+### 🗺�?Interactive Maps & Locations
 - **Safe Houses**: Secure locations and facilities
 - **Marketplaces**: Trading hubs and merchants
 - **Dangerous Areas**: Infected territories and loot locations
@@ -68,6 +68,12 @@ Welcome to the most comprehensive **Dying Light: The Beast** wiki on the interne
 
 ## 📚 Popular Guides
 
+- **[Release Date](/release-date/)**: Complete release information and launch timing
+- **[PC System Requirements](/pc-specs/)**: PC specs, performance optimization, and benchmarks
+- **[Beast Mode Guide](/beast-mode-guide/)**: Complete Beast Mode system and strategy guide
+- **[Review Scores](/review-scores/)**: Media reviews, ratings, and critical reception
+- **[DL2 Comparison](/dl2-comparison/)**: Detailed comparison with Dying Light 2
+- **[Beginner Guide](/beginner-guide/)**: Complete new player tutorial and survival tips
 - **[Game Overview](/game-overview/)**: Complete game information and release details
 - **[Kyle Crane Character](/characters/kyle-crane/)**: Learn about the dual-DNA protagonist
 - **[Castor Woods Valley](/map/castor-woods-valley/)**: Explore the game world and biomes
@@ -80,6 +86,12 @@ Welcome to the most comprehensive **Dying Light: The Beast** wiki on the interne
 
 ## 🔥 Latest Updates
 
+- **Release Date Guide**: Complete release information and launch timing details
+- **PC System Requirements**: Comprehensive PC specs and performance optimization
+- **Beast Mode Guide**: Complete Beast Mode system and strategy guide
+- **Review Scores**: Media reviews, ratings, and critical reception analysis
+- **DL2 Comparison**: Detailed comparison with Dying Light 2
+- **Beginner Guide**: Complete new player tutorial and survival tips
 - **Game Overview**: Complete game information with release date and platform details
 - **Kyle Crane Character**: Detailed profile of the dual-DNA protagonist
 - **Castor Woods Valley**: Comprehensive guide to the game world and biomes

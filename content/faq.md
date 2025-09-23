@@ -1,6 +1,6 @@
 ---
 title: "常见问题解答 - Dying Light: The Beast FAQ"
-description: "Dying Light: The Beast常见问题解答 - 游戏发布、双重游戏系统、平台支持、合作多人游戏、预购信息等问题的详细回�?
+description: "Dying Light: The Beast常见问题解答 - 游戏发布、双重游戏系统、平台支持、合作多人游戏、预购信息等问题的详细回答"
 date: 2025-01-03
 type: "faq"
 categories: ["help", "information"]

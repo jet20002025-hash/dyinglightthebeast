@@ -5,9 +5,9 @@ theme = 'dying-light-theme'
 
 # SEO Configuration
 [params]
-  description = "Complete wiki and guide for Dying Light: The Beast - quests, items, characters, skills, and maps"
+  description = "Complete wiki and guide for Dying Light: The Beast - release date, PC specs, Beast Mode guide, reviews, DL2 comparison, beginner guide, quests, items, characters, skills, and maps"
   author = "Dying Light The Beast Wiki"
-  keywords = ["dying light", "the beast", "wiki", "guide", "walkthrough", "quests", "items", "characters"]
+  keywords = ["dying light the beast", "dying light wiki", "beast mode guide", "pc specs", "release date", "reviews", "dl2 comparison", "beginner guide", "quests", "items", "characters", "skills", "maps"]
   
   # Social Media
   twitter = "@DyingLightWiki"
@@ -27,29 +27,59 @@ theme = 'dying-light-theme'
   weight = 1
 
 [[menu.main]]
+  name = "Release Date"
+  url = "/release-date/"
+  weight = 2
+
+[[menu.main]]
+  name = "PC Specs"
+  url = "/pc-specs/"
+  weight = 3
+
+[[menu.main]]
+  name = "Beast Mode"
+  url = "/beast-mode-guide/"
+  weight = 4
+
+[[menu.main]]
+  name = "Reviews"
+  url = "/review-scores/"
+  weight = 5
+
+[[menu.main]]
+  name = "DL2 Comparison"
+  url = "/dl2-comparison/"
+  weight = 6
+
+[[menu.main]]
+  name = "Beginner Guide"
+  url = "/beginner-guide/"
+  weight = 7
+
+[[menu.main]]
   name = "Quests"
   url = "/quests/"
-  weight = 2
+  weight = 8
 
 [[menu.main]]
   name = "Items"
   url = "/items/"
-  weight = 3
+  weight = 9
 
 [[menu.main]]
   name = "Characters"
   url = "/characters/"
-  weight = 4
+  weight = 10
 
 [[menu.main]]
   name = "Skill Tree"
   url = "/skills/"
-  weight = 5
+  weight = 11
 
 [[menu.main]]
   name = "Map"
   url = "/map/"
-  weight = 6
+  weight = 12
 
 # Content Configuration
 [markup]
