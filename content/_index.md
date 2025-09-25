@@ -8,7 +8,11 @@ keywords: ["dying light the beast", "dying light wiki", "zombie survival guide",
 
 # Dying Light: The Beast Wiki - Your Ultimate Survival Guide
 
+> **⚠️ 重要声明**: 这是一个**粉丝创作的概念网站**。"Dying Light: The Beast"目前**不是**Techland官方宣布的真实游戏项目。本网站内容基于对Dying Light系列的推测和想象创作，仅供娱乐和概念展示用途。请关注Techland官方渠道获取真实的游戏信息。
+
 Welcome to the most comprehensive **Dying Light: The Beast** wiki on the internet! Whether you're a new survivor or a seasoned veteran, this wiki contains everything you need to master the zombie apocalypse and survive in the dangerous world of Dying Light: The Beast.
+
+**Note**: This is a **fan-created concept website**. "Dying Light: The Beast" is **not** an officially announced game by Techland. All content is based on speculation and imagination inspired by the Dying Light series, created for entertainment and concept showcase purposes only. Please follow official Techland channels for real game information.
 
 ## 🎯 What You'll Find Here
 

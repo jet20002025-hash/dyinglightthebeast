@@ -6,9 +6,12 @@ type: "release-info"
 categories: ["release", "info"]
 tags: ["release date", "launch", "preload", "unlock time", "platforms"]
 featured_image: "/images/release-date/launch-timeline.jpg"
+concept_note: "⚠️ 概念设计内容 - 基于粉丝推测创作"
 ---
 
 # Dying Light: The Beast Release Date and Launch Information
+
+> **⚠️ 概念设计内容**: 本发布日期信息基于粉丝推测创作，非官方确认信息。
 
 **Dying Light: The Beast** will be released globally on **September 18, 2025**! Techland has confirmed that the game will unlock simultaneously on all supported platforms, providing a unified release experience for players worldwide.
 

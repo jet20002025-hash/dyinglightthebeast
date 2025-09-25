@@ -1,6 +1,12 @@
 # Dying Light: The Beast Wiki - Project Structure
 
+> **⚠️ 重要声明**: 这是一个**粉丝创作的概念网站**。"Dying Light: The Beast"目前**不是**Techland官方宣布的真实游戏项目。
+
 This document provides a complete overview of the project structure for the Dying Light: The Beast Wiki.
+
+## 📋 项目性质说明
+
+这是一个**粉丝创作的概念网站**，展示了对"Dying Light: The Beast"游戏的想象和概念设计。所有内容均基于对Dying Light系列的推测和想象创作，仅供娱乐和概念展示用途。
 
 ## 📁 Root Directory Structure
 

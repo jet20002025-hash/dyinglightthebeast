@@ -6,9 +6,12 @@ type: "beginner-guide"
 categories: ["guide", "beginner", "tutorial"]
 tags: ["beginner", "guide", "tutorial", "survival", "tips", "strategy"]
 featured_image: "/images/beginner-guide/new-player-hero.jpg"
+concept_note: "⚠️ 概念设计内容 - 基于粉丝推测创作"
 ---
 
 # Dying Light: The Beast Complete Beginner Guide
+
+> **⚠️ 概念设计内容**: 本指南基于对Dying Light系列的推测和想象创作，展示概念性的游戏机制和玩法设计。
 
 Welcome to the world of **Dying Light: The Beast**! This guide will help new players get started quickly, master survival skills, and avoid common mistakes. Whether you're new to the Dying Light series or a veteran player, you can gain useful information from this guide.
 

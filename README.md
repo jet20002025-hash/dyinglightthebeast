@@ -25,6 +25,32 @@
 
 <a href="https://gohugo.io/"><img src="https://raw.githubusercontent.com/gohugoio/gohugoioTheme/master/static/images/hugo-logo-wide.svg?sanitize=true" alt="Hugo" width="565"></a>
 
+# Dying Light: The Beast Wiki - Fan Concept Website
+
+> **⚠️ 重要声明**: 这是一个**粉丝创作的概念网站**。"Dying Light: The Beast"目前**不是**Techland官方宣布的真实游戏项目。
+
+## 📋 项目说明
+
+这是一个基于Hugo构建的**粉丝创作概念网站**，展示了对"Dying Light: The Beast"游戏的想象和概念设计。网站内容包括：
+
+- 虚构的游戏机制和玩法设计
+- 概念性的角色和世界观设定  
+- 基于Dying Light系列的推测内容
+- 完整的网站架构和内容管理系统
+
+## 🎯 项目性质
+
+- **类型**: 粉丝创作概念网站
+- **内容**: 基于推测和想象的游戏概念
+- **目的**: 娱乐展示和概念设计
+- **状态**: 非官方项目
+
+## ⚠️ 免责声明
+
+**"Dying Light: The Beast"不是Techland官方宣布的真实游戏项目。**本网站所有内容均为粉丝创作的概念设计，基于对Dying Light系列的推测和想象，仅供娱乐和概念展示用途。请关注Techland官方渠道获取真实的游戏信息。
+
+---
+
 A fast and flexible static site generator built with love by [bep], [spf13], and [friends] in [Go].
 
 ---

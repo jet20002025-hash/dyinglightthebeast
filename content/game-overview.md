@@ -6,9 +6,12 @@ type: "overview"
 categories: ["game-info"]
 tags: ["dying light the beast", "kyle crane", "castor woods", "dual gameplay", "survival horror"]
 featured_image: "/images/game-overview/hero-image.jpg"
+concept_note: "⚠️ 概念设计内容 - 基于粉丝推测创作"
 ---
 
 # Dying Light: The Beast - Game Overview
+
+> **⚠️ 概念设计内容**: 本概述基于对Dying Light系列的推测和想象创作，展示概念性的游戏设计和世界观设定。
 
 **Dying Light: The Beast** is an upcoming open-world action survival horror game set to release on **September 18, 2025**. Experience the unique story of Kyle Crane, a hero with both human and monster DNA, surviving in the beautiful Castor Woods valley.
 

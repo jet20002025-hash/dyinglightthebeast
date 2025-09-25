@@ -1,6 +1,42 @@
 # Dying Light: The Beast Wiki - Content Guidelines
 
+> **⚠️ 重要声明**: 这是一个**粉丝创作的概念网站**。"Dying Light: The Beast"目前**不是**Techland官方宣布的真实游戏项目。
+
 This document provides guidelines for creating and maintaining content for the Dying Light: The Beast Wiki.
+
+## 📋 项目性质说明
+
+这是一个**粉丝创作的概念网站**，所有内容均基于对Dying Light系列的推测和想象创作。内容创作应遵循以下原则：
+
+- **概念性**: 基于现有Dying Light系列的推测和想象
+- **一致性**: 保持与Dying Light世界观的一致性
+- **创新性**: 在合理范围内进行概念创新
+- **娱乐性**: 以娱乐和概念展示为主要目的
+
+## 🎨 概念创作规范
+
+### 内容标记要求
+
+所有内容文件必须在front matter中包含概念标记：
+
+```yaml
+concept_note: "⚠️ 概念设计内容 - 基于粉丝推测创作"
+```
+
+### 免责声明格式
+
+每个主要内容页面都应包含以下格式的免责声明：
+
+```markdown
+> **⚠️ 概念设计内容**: 本内容基于对Dying Light系列的推测和想象创作，展示概念性的游戏设计和世界观设定。
+```
+
+### 创作原则
+
+1. **基于现有系列**: 所有概念都应基于Dying Light 1和2的现有设定
+2. **合理推测**: 避免过于偏离原系列的核心元素
+3. **创新平衡**: 在保持一致性的同时允许合理创新
+4. **明确标记**: 所有内容都应明确标记为概念设计
 
 ## Content Types
 
