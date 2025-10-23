@@ -8,9 +8,13 @@ tags: ["comparison", "dying light 2", "the beast", "differences", "improvements"
 featured_image: "/images/comparison/dl2-vs-beast.jpg"
 ---
 
-# Dying Light: The Beast vs Dying Light 2 Detailed Comparison
+# Dying Light: The Beast vs Dying Light 2 Detailed Comparison - Fan Concept
 
-**Dying Light: The Beast** as the latest work in the Dying Light series has significant improvements and innovations compared to the previous work **Dying Light 2** in multiple aspects. This article provides detailed comparison analysis from multiple dimensions.
+> **⚠️ 概念设计内容**: 本比较分析基于对Dying Light系列的推测和想象创作，展示概念性的游戏设计对比。**这不是官方游戏**。
+
+**Dying Light: The Beast** as a **fan concept** for the latest work in the Dying Light series has significant improvements and innovations compared to the previous work **Dying Light 2** in multiple aspects. This article provides detailed comparison analysis from multiple dimensions.
+
+**Important**: This is a **fan-created concept**. "Dying Light: The Beast" is **not** an officially announced game by Techland.
 
 ## 📊 Overall Comparison Overview
 

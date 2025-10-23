@@ -9,11 +9,13 @@ featured_image: "/images/beginner-guide/new-player-hero.jpg"
 concept_note: "⚠️ 概念设计内容 - 基于粉丝推测创作"
 ---
 
-# Dying Light: The Beast Complete Beginner Guide
+# Dying Light: The Beast Complete Beginner Guide - Fan Concept
 
-> **⚠️ 概念设计内容**: 本指南基于对Dying Light系列的推测和想象创作，展示概念性的游戏机制和玩法设计。
+> **⚠️ 概念设计内容**: 本指南基于对Dying Light系列的推测和想象创作，展示概念性的游戏机制和玩法设计。**这不是官方游戏**。
 
-Welcome to the world of **Dying Light: The Beast**! This guide will help new players get started quickly, master survival skills, and avoid common mistakes. Whether you're new to the Dying Light series or a veteran player, you can gain useful information from this guide.
+Welcome to the world of **Dying Light: The Beast** fan concept! This guide showcases what a potential beginner experience could look like in this imagined game. This is a **fan-created concept** - "Dying Light: The Beast" is **not** an officially announced game by Techland.
+
+**Important**: This is a **fan-created concept**. "Dying Light: The Beast" is **not** an officially announced game by Techland.
 
 ## 🎯 Preparation Before Starting the Game
 
